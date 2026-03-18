@@ -1,3 +1,3 @@
 FROM almalinux:9
 ADD https://example-files.online-convert.com/document/txt/example.txt /tmp/sample.txt
-CMD [ "slepp","100" ]
+CMD [ "slepp","1000" ]
