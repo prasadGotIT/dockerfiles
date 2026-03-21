@@ -1,3 +1,3 @@
 FROM almalinux:9
-ADD https://example-files.online-convert.com/document/txt/example.txt /tmp/sample.txt
+ADD https://github.com/daws-86s/notes/blob/main/session-01.txt /tmp/notes.txt
 CMD [ "slepp","1000" ]
